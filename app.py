@@ -3,7 +3,7 @@ import streamlit as st
 import os
 from PIL import Image
 import google.generativeai as genai
-import fitz  # PyMuPDF
+import fitz
 from io import BytesIO
 
 # Load environment variables
