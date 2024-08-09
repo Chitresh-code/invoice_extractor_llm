@@ -17,8 +17,8 @@ Ensure you have Python 3.7 or higher installed on your system.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Chitresh-code/invoice_extractor_llm.git
+   cd invoice_extractor_llm
    ```
 
 2. Create a virtual environment (optional but recommended):
