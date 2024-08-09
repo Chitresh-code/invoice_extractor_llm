@@ -12,7 +12,7 @@ The Gemini Invoice Extractor is a web application built with Streamlit that leve
 ## Setup
 
 ### Prerequisites
-Ensure you have Python 3.7 or higher installed on your system.
+Ensure you have Python 3.9 or higher installed on your system.
 
 ### Installation
 1. Clone the repository:
