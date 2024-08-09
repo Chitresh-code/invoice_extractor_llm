@@ -50,8 +50,3 @@ streamlit run app.py
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Replace `<repository_url>` and `<repository_directory>` with the actual URL and directory name of your repository if applicable. 
-
-Let me know if you need any more details or adjustments!
